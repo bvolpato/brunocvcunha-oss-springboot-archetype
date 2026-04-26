@@ -8,7 +8,7 @@
   },
   "author": "Bruno Volpato",
   "dependencies": {
-    "angular": "1.2.10",
+    "angular": "1.8.3",
     "angular-ui-bootstrap": "^2.3.2",
     "angularjs-datetime-picker": "^0.1.16",
     "bootstrap": "5.0.0"
